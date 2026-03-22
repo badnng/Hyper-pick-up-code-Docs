@@ -1,10 +1,11 @@
 ---
 layout: home
 hero:
-  name: 我的文档站
-  text: 欢迎
+  name: 澎湃记
+  text: 一个专注于取餐码/取件码的App
   actions:
     - theme: brand
-      text: 快速开始
-      link: /guide/getting-started
+      text: 下载最新版本
+      link: "https://github.com/用户名/仓库名/releases/latest/download/app-release.apk"
+    
 ---
