@@ -4,13 +4,13 @@
 
 目前最新版本的定义为最新正式版本，如需要测试版（版本号带有Dev后缀），安装最新版本后前往
 
-:::tip 
-设置-偏好设置-联网更新开关-开启-接收测试版更新
+::: 
+'设置-偏好设置-联网更新开关-开启-接收测试版更新'
 
-然后前往关于页面检测更新即可
+然后前往'关于'页面检测更新即可
 :::
 
-[最新版本](https://github.com/Badnng/Hyper-pick-up-code/releases/latest/download/app-release.apk）
+[最新版本](https://github.com/Badnng/Hyper-pick-up-code/releases/latest/download/app-release.apk)
 
 ## 按照引导步骤进行授权权限
 
