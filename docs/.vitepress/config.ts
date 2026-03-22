@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  base: 'Hyper-pick-up-code',
+  base: '/Hyper-pick-up-code-Docs/',
   title: 'Docs',
   description: '文档站点',
   themeConfig: {
