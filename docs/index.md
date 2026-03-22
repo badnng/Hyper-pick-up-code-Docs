@@ -6,11 +6,11 @@ hero:
   actions:
     - theme: brand
       text: 下载最新版本
-      link: "https://github.com/用户名/仓库名/releases/latest/download/app-release.apk"
+      link: "https://github.com/Badnng/Hyper-pick-up-code/releases/latest/download/app-release.apk"
 
     - theme: alt
-      text: Documentation
-      link: /docs/basic/get-started
+      text: 快速开始
+      link: /guide/getting-started
 
 features:
   - title: 本地运行
