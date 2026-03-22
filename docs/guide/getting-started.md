@@ -9,7 +9,7 @@
 然后前往'关于'页面检测更新即可
 :::
 
-[最新版本](https://github.com/Badnng/Hyper-pick-up-code/releases/latest/download/app-release.apk)
+[最新版本](https://github.com/badnng/Hyper-pick-up-code/releases/latest/download/app-release.apk)
 
 ## 按照引导步骤进行授权权限
 

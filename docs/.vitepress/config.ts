@@ -2,14 +2,14 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   base: '/Hyper-pick-up-code-Docs/',
-  title: 'Docs',
+  title: '澎湃记',
   description: '文档站点',
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
       { text: '指南', link: '/guide/getting-started' },
-      { text: '下载最新正式版', link: 'https://github.com/Badnng/Hyper-pick-up-code/releases/latest/download/app-release.apk' },
-      { text: 'GitHub Repo', link: 'https://github.com/Hyper-pick-up-code' }
+      { text: '下载最新正式版', link: 'https://github.com/badnng/Hyper-pick-up-code/releases/latest/download/app-release.apk' },
+      { text: 'GitHub Repo', link: 'https://github.com/badnng/Hyper-pick-up-code' }
     ],
     sidebar: [
       {
