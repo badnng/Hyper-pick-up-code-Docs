@@ -18,7 +18,8 @@ export default defineConfig({
           { text: '快速开始', link: '/guide/getting-started' },
           { text: '识别方式', link: '/guide/usage' },
           { text: '常见问题', link: '/guide/troubleshooting' },
-          { text: '问题反馈', link: '/guide/feedback' }
+          { text: '问题反馈', link: '/guide/feedback' },
+          { text: '自定义规则', link: '/guide/CUSTOM_RULES_GUIDE' }
         ]
       }
     ]
